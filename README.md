@@ -55,8 +55,8 @@ request URI etc.
 
 ## Order
 
-**Request** &rarr; Pre Matching Container Request Filter &rarr; 
-Container Request Filter &rarr; Resource &rarr; Container Response Filter &rarr; 
+**Request** &rarr; Pre Matching Container Request Filter &rarr; Resource matching &rarr;  
+Container Request Filter &rarr; Resource processing / logic &rarr; Container Response Filter &rarr; 
 **Response**
 
 # Defining filters in Spring Boot
